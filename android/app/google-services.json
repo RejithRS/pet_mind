@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045433229308",
+    "project_id": "pet-mind",
+    "storage_bucket": "pet-mind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045433229308:android:b8cc7c049d1d36bdd31c79",
+        "android_client_info": {
+          "package_name": "com.example.pet_mind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045433229308-pecrb8f3badtrvhe3ae0juaatmaheqd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZz2l8MHSVKS_tv1Fl772n0P8JbTKUqj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045433229308-pecrb8f3badtrvhe3ae0juaatmaheqd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
